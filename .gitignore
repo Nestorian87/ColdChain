@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+node_modules/
+artifacts/
+cache/
+models/*.pkl
+*.log
+
+# Local documentation and generated reports
+/docs/
+/reports/
+/README.md
+
+# Local IDE and macOS files
+.idea/
+.DS_Store
